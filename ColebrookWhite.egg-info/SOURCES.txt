@@ -1,8 +1,7 @@
 README.md
 setup.py
-ColebrookWhite/ColebrookWhite.py
+ColebrookWhite/QFull.py
 ColebrookWhite/__init__.py
-ColebrookWhite/colebrookWhite.py
 ColebrookWhite.egg-info/PKG-INFO
 ColebrookWhite.egg-info/SOURCES.txt
 ColebrookWhite.egg-info/dependency_links.txt
